@@ -1,0 +1,1 @@
+{"version":3,"sources":["How.css"],"names":[],"mappings":"AAAA,KACE,aAAc,CACd,UAAW,CACX,eAAgB,CAChB,gBACF,CACA,GACC,eACD","file":"main.af2b6f64.chunk.css","sourcesContent":[".kan {\n  display: block;\n  width: 100%;\n  max-width: 540px;\n  margin: 20px auto;\n}\nh4 {\n\tmax-width: 320px;\n}"]}
